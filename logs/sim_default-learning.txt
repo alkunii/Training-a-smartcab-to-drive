@@ -1,0 +1,10 @@
+/-----------------------------------------
+| State-action rewards from Q-Learning
+\-----------------------------------------
+
+<bound method LearningAgent.build_state of <__main__.LearningAgent object at 0x0000000002DBCE80>>
+ -- forward : -20.61
+ -- right : -8.42
+ -- None : -5.01
+ -- left : -7.37
+
